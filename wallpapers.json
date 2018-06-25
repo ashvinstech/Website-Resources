@@ -39,14 +39,33 @@
       "author": "Someone",
       "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
       "dimensions": "1920x1080",
-      "collections": "landscapes",
+      "collections": "amoled",
       "downloadable": true
     },
      {
-      "name": "Amoled Graphic",
+      "name": "Amoled Sunset",
       "author": "Someone",
-      "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
+      "url": "https://i.pinimg.com/736x/55/60/e8/5560e8e07af2698530017f74a224ee5e.jpg",
+      "dimensions": "736x55",
+      "copyright": "Credits to its creator",
+      "collections": "amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Amoled Saturn",
+      "author": "Someone",
+      "url": "https://i.pinimg.com/originals/81/be/f7/81bef7db2560d86147ccc2b938e08f93.jpg",
       "dimensions": "1920x1080",
+      "copyright": "Credits to its creator",
+      "collections": "amoled",
+      "downloadable": true
+    },
+     {
+      "name": "Amoled Sky-dawn",
+      "author": "Someone",
+      "url": "https://i.pinimg.com/originals/23/2d/06/232d060257957148b0fe99b681973dd5.jpg",
+      "dimensions": "1920x1080",
+      "copyright": "Credits to its creator",
       "collections": "amoled",
       "downloadable": true
     },
@@ -65,7 +84,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "city"
+      "collections": "food"
     },
     {
       "name": "Cool Mountain",
