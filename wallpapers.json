@@ -36,7 +36,7 @@
     },
     {
       "name": "Amoled Graphic",
-      "author": "Someone",
+      "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
       "dimensions": "1920x1080",
       "collections": "amoled,featured",
@@ -44,7 +44,7 @@
     },
      {
       "name": "Amoled Sunset",
-      "author": "Someone",
+      "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/736x/55/60/e8/5560e8e07af2698530017f74a224ee5e.jpg",
       "dimensions": "736x55",
       "copyright": "Credits to its creator",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Amoled Saturn",
-      "author": "Someone",
+      "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/81/be/f7/81bef7db2560d86147ccc2b938e08f93.jpg",
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
@@ -61,8 +61,17 @@
       "downloadable": true
     },
      {
+      "name": "Red Sull",
+      "author": "Tomislav Doric",
+      "url": "https://i.pinimg.com/originals/80/d0/0a/80d00aaec96b08e201deae4c43c86828.jpg",
+      "dimensions": "1920x1080",
+      "copyright": "Credits to its creator",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
       "name": "Amoled Sky-dawn",
-      "author": "Someone",
+      "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/23/2d/06/232d060257957148b0fe99b681973dd5.jpg",
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
@@ -85,6 +94,14 @@
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "food"
+    },
+    {
+      "name": "MKBHD B&W",
+      "author": "Tomislav Doric",
+      "url": "https://i.pinimg.com/originals/04/4c/d6/044cd6acccca9af24cd9308562b377f2.jpg",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
     },
     {
       "name": "Cool Mountain",
