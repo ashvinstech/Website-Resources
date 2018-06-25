@@ -103,6 +103,14 @@
       "collections": "amoled"
     },
     {
+      "name": "Moon Vector",
+      "author": "Tomislav Doric",
+      "url": "https://i.pinimg.com/originals/ba/5b/16/ba5b169afa33c2326936b9bc87de1473.jpg",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+    {
       "name": "Strawberry",
       "author": "wallsplash",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
