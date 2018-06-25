@@ -39,7 +39,7 @@
       "author": "Someone",
       "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
       "dimensions": "1920x1080",
-      "collections": "amoled",
+      "collections": "amoled,featured",
       "downloadable": true
     },
      {
@@ -48,7 +48,7 @@
       "url": "https://i.pinimg.com/736x/55/60/e8/5560e8e07af2698530017f74a224ee5e.jpg",
       "dimensions": "736x55",
       "copyright": "Credits to its creator",
-      "collections": "amoled",
+      "collections": "amoled,featured",
       "downloadable": true
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://i.pinimg.com/originals/81/be/f7/81bef7db2560d86147ccc2b938e08f93.jpg",
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
-      "collections": "amoled",
+      "collections": "amoled,featured",
       "downloadable": true
     },
      {
@@ -66,7 +66,7 @@
       "url": "https://i.pinimg.com/originals/23/2d/06/232d060257957148b0fe99b681973dd5.jpg",
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
-      "collections": "amoled",
+      "collections": "amoled,featured",
       "downloadable": true
     },
     {
