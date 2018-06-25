@@ -30,12 +30,12 @@
       "downloadable": false
     },
     {
-      "name": "ShotB",
+      "name": "Amoled Graphic",
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
+      "dimensions": "1920x1080",
+      "collections": "Landscapes",
+      "downloadable": true
     },
     {
       "author": "Someone",
