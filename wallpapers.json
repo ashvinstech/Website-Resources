@@ -27,14 +27,7 @@
     }
   ],
   "Wallpapers": [
-    {
-      "name": "Clock Tower",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people",
-      "downloadable": true
-    },
-    {
+     {
       "name": "Amoled Graphic",
       "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
@@ -70,12 +63,27 @@
       "downloadable": true
     },
      {
+      "name": "Spacship launch",
+      "author": "Tomislav Doric",
+      "url": "https://i.pinimg.com/originals/c0/7d/80/c07d80f1d8bca543dadcb2603207ea50.jpg",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
       "name": "Amoled Sky-dawn",
       "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/23/2d/06/232d060257957148b0fe99b681973dd5.jpg",
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
       "collections": "amoled,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Clock Tower",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "collections": "featured,landscapes,people",
       "downloadable": true
     },
     {
