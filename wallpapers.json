@@ -79,6 +79,14 @@
       "collections": "amoled,featured",
       "downloadable": true
     },
+     {
+      "name": "Walli app",
+      "author": "Tomislav Doric",
+      "url": "https://i.pinimg.com/originals/26/5f/f3/265ff33dfae95181b8e227f83393893a.jpg",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
     {
       "name": "Clock Tower",
       "author": "Someone",
