@@ -79,6 +79,24 @@
       "collections": "amoled,featured",
       "downloadable": true
     },
+    {
+      "name": "Dystopia",
+      "author": "T5Djpg.com",
+      "url": "http://www.5djpg.com/uploads/allimg/160712/1-160G2114G6.jpg",
+      "dimensions": "1920x1080",
+      "copyright": "Credits to its creator",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
+      "name": "Red Moon",
+      "author": "BDFjade.com",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/5747121-wallpaper-android.jpg",
+      "dimensions": "1920x1080",
+      "copyright": "Credits to its creator",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
      {
       "name": "Walli app",
       "author": "Tomislav Doric",
