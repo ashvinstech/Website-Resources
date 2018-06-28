@@ -35,6 +35,16 @@
       "collections": "amoled,featured",
       "downloadable": true
     },
+     
+     {
+      "name": "Night Hiking",
+      "author": "Wallpapershome.com",
+      "url": "https://wallpapershome.com/images/pages/pic_v/11099.jpg",
+      "dimensions": "640x1138",
+      "copyright": "Credits to its creator",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
      {
       "name": "Amoled Sunset",
       "author": "Tomislav Doric",
