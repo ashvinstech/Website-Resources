@@ -28,6 +28,14 @@
   ],
   "Wallpapers": [
      {
+      "name": "Sky in night",
+      "author": "Stock wllpapers",
+      "url": "http://stock-wallpapers.com/wp-content/uploads/2014/12/30-Awesome-Android-Wallpapers-Nature.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Amoled Graphic",
       "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
@@ -43,6 +51,24 @@
       "dimensions": "640x1138",
       "copyright": "Credits to its creator",
       "collections": "amoled,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Daft Punk",
+      "author": "IMGUR",
+      "url": "https://i.imgur.com/aWNLUVG.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "copyright": "Copyright to its creators",
+      "downloadable": true
+    },
+     {
+      "name": "Forest Amoled",
+      "author": "Portoalagre",
+      "url": "http://www.portoalegre.travel/upload/b/7/72080_amoled-wallpaper-4k.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "copyright": "Copyright to its creators",
       "downloadable": true
     },
      {
@@ -73,11 +99,51 @@
       "downloadable": true
     },
      {
+      "name": "Deadpool vector",
+      "author": "Qoura",
+      "url": "https://qph.fs.quoracdn.net/main-qimg-e737757a152ac4244153b2e5ab7654e1",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Anonymous",
+      "author": "HD wallpapers",
+      "url": "http://allpicts.in/wp-content/uploads/2017/10/Badass-Wallpapers-For-Android-38-0f-40-Custom-Anonymous-Mask-500x889.jpg",
+      "dimensions": "1920x1080",
+      "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
+      "name": "Greenary",
+      "author": "caskia",
+      "url": "http://caskia.me/wp-content/uploads/2018/03/download-34-minimalist-wallpapers-in-qhd-quality-droidviews-within-android.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+     {
       "name": "Spaceship launch",
       "author": "Tomislav Doric",
       "url": "https://i.pinimg.com/originals/c0/7d/80/c07d80f1d8bca543dadcb2603207ea50.jpg",
       "dimensions": "1920x1080",
       "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
+      "name": "Night",
+      "author": "Android Wallpapers",
+      "url": "https://androidwalls.net/wp-content/uploads/2014/12/Snow%20Mountain%20Night%20Sky%20Stars%20Android%20Wallpaper.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+      {
+      "name": "Colors",
+      "author": "Wondershare",
+      "url": "https://datarecovery.wondershare.com/uploads/cool-android-wallpaper-08.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
       "downloadable": true
     },
      {
@@ -96,6 +162,33 @@
       "dimensions": "1920x1080",
       "copyright": "Credits to its creator",
       "collections": "amoled,featured",
+      "downloadable": true
+    },
+     {
+      "name": "Flower",
+      "author": "Planwallpapers",
+      "url": "https://www.planwallpaper.com/static/images/96d186ef9ae1d063b50bc1d9a03af5cc--mobile-wallpaper-photo-wallpaper.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "copyright": "Copyright to its creators",
+      "downloadable": true
+    },
+    {
+      "name": "Moustach Pixeleted",
+      "author": "Stock wllpapers",
+      "url": "https://datarecovery.wondershare.com/uploads/cool-android-wallpaper-18.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "copyright": "Free",
+      "downloadable": true
+    }, 
+     {
+      "name": "Oreo Colorfull",
+      "author": "Planwallpapers",
+      "url": "http://www.amoledwallpapers.com/wp-content/uploads/2017/09/444tfdf.png",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "copyright": "Copyright to its creators",
       "downloadable": true
     },
      {
