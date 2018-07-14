@@ -58,15 +58,7 @@
       "dimensions": "1920x1080",
       "collections": "featured",
       "downloadable": true
-    }, 
-    {
-      "name": "Camera",
-      "author": "unsplash",
-      "url": "https://images.unsplash.com/photo-1495022954506-e30ba8e61161?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a7cd53d0d020c031d65d74621eeea992&auto=format&fit=crop&w=630&q=80",
-      "dimensions": "1920x1080",
-      "collections": "featured",
-      "downloadable": true
-    }, 
+    },
     {
       "name": "Camera",
       "author": "unsplash",
