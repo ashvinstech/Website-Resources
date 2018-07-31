@@ -26,7 +26,16 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
-  "Wallpapers": [{
+  "Wallpapers": [
+    {
+      "name": "Drive",
+      "author": "MINI WALLIST",
+      "url": "http://miniwallist.com/wp-content/uploads/2015/10/drive-movie-mobile-wallpaper-minimalist-2160x3840.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Sin City",
       "author": "MINI WALLIST",
       "url": "http://miniwallist.com/wp-content/uploads/2015/10/sin-city-mobile-wallpaper-minimalist-2160x3840.jpg",
