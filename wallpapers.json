@@ -28,6 +28,46 @@
   ],
   "Wallpapers": [
     {
+      "name": "Mojave",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/bc/57/65/bc5765f3b49aeb0757bf41d4e03800ff.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Red Moon",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/75/5b/55/755b552ebf302739d47d18e1776f7dca.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Red Desert",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/c0/68/53/c06853da1a773a123abd240c61c6d4b9.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+     {
+      "name": "Moon and Stars",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/87/ab/ce/87abce2317c1f17ce00a611206b934d8.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Dawn",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/7a/8a/6d/7a8a6d34e355f278251e2b62158adc70.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Drive",
       "author": "MINI WALLIST",
       "url": "http://miniwallist.com/wp-content/uploads/2015/10/drive-movie-mobile-wallpaper-minimalist-2160x3840.jpg",
