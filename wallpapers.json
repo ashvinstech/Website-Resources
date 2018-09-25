@@ -1,6 +1,11 @@
 {
   "Collections": [
     {
+      "name": "iphone Xs",
+      "preview_url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-2-768x1662.jpg",
+      "preview_thumbnail_url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-2-768x1662.jpg"
+    },
+    {
       "name": "Amoled",
       "preview_url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
       "preview_thumbnail_url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg"
@@ -32,7 +37,7 @@
       "author": "view from the park",
       "url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-2-768x1662.jpg",
       "dimensions": "1920x1080",
-      "collections": "featured",
+      "collections": "featured,iphone Xs",
       "downloadable": true
     }, 
     {
@@ -40,7 +45,7 @@
       "author": "view from the park",
       "url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-1-768x1662.jpg",
       "dimensions": "1920x1080",
-      "collections": "featured",
+      "collections": "featured,iphone Xs",
       "downloadable": true
     }, 
     {
@@ -48,7 +53,7 @@
       "author": "view from the park",
       "url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-3.jpg",
       "dimensions": "1920x1080",
-      "collections": "featured",
+      "collections": "featured,iphone Xs",
       "downloadable": true
     }, 
      {
