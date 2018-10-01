@@ -38,6 +38,14 @@
   ],
   "Wallpapers": [   
     {
+      "name": "Night Road",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/bd/fa/d5/bdfad58f1dfcf418177c2e1ed88febd2.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Covered Lambo",
       "author": "view from the park",
       "url": "https://wallpapersmug.com/download/1125x2436/efbda7/red-lamborghini-car.jpg",
