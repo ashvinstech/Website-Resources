@@ -36,7 +36,119 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
-  "Wallpapers": [   
+  "Wallpapers": [ 
+    {
+      "name": "Moon With Sun",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/01/10/4d/01104da4daf375022479ea14552ff69a.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+     {
+      "name": "Fire Crackers",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/c0/4d/81/c04d8195a73b139b48f99e297f269816.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Fast train",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/27/c4/97/27c497216fd07e40e13fa43abd8ee55b.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+     {
+      "name": "Wet Bridge",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/70/db/3b/70db3bf4821513f36ad951bbf35e8c5d.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Golden Bidge 2",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/64/6f/d4/646fd41573aafdcb5b412d0b27cb94cb.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Life Gaurd off duty",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/40/98/de/4098de0ae7a371124e089e19bad6044f.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Poles at dawn",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/5d/db/0f/5ddb0f9250b67cc05b98e5dd899d8f86.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Golden Hour",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/74/e9/df/74e9df057a113dc70106301c5d51848a.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+     {
+      "name": "Wet Bridge",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/e0/55/3a/e0553a73ef7d0d9070ac712a0a2a6b04.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Bridge Aerial",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/9c/5e/f6/9c5ef6fdeae800007ad98614df5e4cfc.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Jeep Night",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/36/c0/7d/36c07d2300561eaa0e3b3f245af1da89.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Dawn 2",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/9a/5a/6c/9a5a6c67dd4242853c9e3c164126673a.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
+      "name": "Beach Sunset",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/0d/f5/28/0df5281e9c7a124cd28aa05883643da2.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+     {
+      "name": "Bokeh",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/28/4f/fd/284ffde904cb18ab66f97cacad2b1585.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
     {
       "name": "Night Road",
       "author": "Pintrest",
