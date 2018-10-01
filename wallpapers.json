@@ -31,7 +31,16 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
-  "Wallpapers": [
+  "Wallpapers": [   
+    {
+      "name": "Covered Lambo",
+      "author": "view from the park",
+      "url": "https://wallpapersmug.com/download/1125x2436/efbda7/red-lamborghini-car.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured,cars",
+      "downloadable": true
+    }, 
+        
     {
       "name": "iphone Planets purple",
       "author": "view from the park",
