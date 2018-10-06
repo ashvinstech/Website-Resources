@@ -37,21 +37,6 @@
     }
   ],
   "Wallpapers": [ 
-     {
-      "name": "Dubai",
-      "author": "Pintrest",
-      "url": "https://i.pinimg.com/564x/cd/de/55/cdde554f911ed78d8314fd7b124720dc.jpg",
-      "dimensions": "1920x1080",
-      "collections": "featured,Amoled",
-      "downloadable": true
-     {
-      "name": "Speed",
-      "author": "Pintrest",
-      "url": "https://i.pinimg.com/564x/09/c1/1c/09c11c8dedea0df1301ecd13e748de4d.jpg",
-      "dimensions": "1920x1080",
-      "collections": "featured,Cars",
-      "downloadable": true
-    },
     {
       "name": "Moon With Sun",
       "author": "Pintrest",
