@@ -38,6 +38,14 @@
   ],
   "Wallpapers": [ 
     {
+      "name": "Cartoonish",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/1e/f6/57/1ef6578a9ec76cd7813ad398bd17a86f.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Dubai",
       "author": "Pintrest",
       "url": "https://i.pinimg.com/564x/cd/de/55/cdde554f911ed78d8314fd7b124720dc.jpg",
