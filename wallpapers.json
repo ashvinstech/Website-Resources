@@ -38,6 +38,14 @@
   ],
   "Wallpapers": [ 
     {
+      "name": "xyz",
+      "author": "Pintrest",
+      "url": "https://images.unsplash.com/photo-1533613220915-609f661a6fe1?ixlib=rb-0.3.5&s=3fda90f4984163cc30e13bdae325b382&w=1000&q=80",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    }, 
+    {
       "name": "Cartoonish",
       "author": "Pintrest",
       "url": "https://i.pinimg.com/564x/1e/f6/57/1ef6578a9ec76cd7813ad398bd17a86f.jpg",
