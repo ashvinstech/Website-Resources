@@ -38,13 +38,21 @@
   ],
   "Wallpapers": [ 
     {
+      "name": "The wonder of sky",
+      "author": "Pintrest",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxliz_DwpxAkp_2-95DceiteVlePacYxr9QikxDYE3cDnU6bXY",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
       "name": "Red sword",
       "author": "Pintrest",
       "url": "https://images.unsplash.com/photo-1533613220915-609f661a6fe1?ixlib=rb-0.3.5&s=3fda90f4984163cc30e13bdae325b382&w=1000&q=800",
       "dimensions": "1920x1080",
       "collections": "featured",
       "downloadable": true
-    }, 
+    },
     {
       "name": "Cartoonish",
       "author": "Pintrest",
