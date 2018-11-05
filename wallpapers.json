@@ -38,7 +38,15 @@
   ],
   "Wallpapers": [ 
 
-  {
+ {
+      "name": "Memorable Sky",
+      "author": "Pintrest",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8VLJieOgW-6TFqv5KIuahJSSwSGWnGx2DgO6MMg-dgiTuM9FH",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
       "name": "Pubg mates",
       "author": "Pintrest",
       "url": "https://image.winudf.com/v2/image/Y29tLnB1Ymcud2FsbHBhcGVyLmZ1bGxoZF9zY3JlZW5fMV8xNTMyMDU3MzI4XzA0Mw/screen-1.jpg?h=800&fakeurl=1&type=.jpg",
