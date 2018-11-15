@@ -37,8 +37,39 @@
     }
   ],
   "Wallpapers": [ 
-
- {
+     {
+      "name": "Sea graph",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/originals/ec/5d/de/ec5dde9a9cef6b1b3fe06ac3d49ac678.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
+      "name": "Dreams",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/originals/50/08/3e/50083eecd7d8f4cdcb743dd6298bb677.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
+      "name": "City",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/cb/19/49/cb194986e73740bdb241e6f47c12d043.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
+      "name": "Bokah",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/df/7f/81/df7f8116b2c27a29bd015861d31b0aa8.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
       "name": "The midangle",
       "author": "Pintrest",
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGU05C9ptadYfam0svceMal67KU4PLenhZJv5mdQWKCLVwu8wA",
