@@ -37,6 +37,14 @@
     }
   ],
   "Wallpapers": [ 
+    {
+      "name": "Never settle",
+      "author": "Pintrest",
+      "url": "https://i.pinimg.com/564x/b5/5c/92/b55c923dd29168a177c0269e95bab759.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured,Cars",
+      "downloadable": true
+    },
      {
       "name": "Sea graph",
       "author": "Pintrest",
