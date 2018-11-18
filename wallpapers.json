@@ -37,6 +37,14 @@
     }
   ],
   "Wallpapers": [ 
+   {
+      "name": "ⓦⓞⓡⓡⓘⓞⓡ",
+      "author": "Pintrest",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhkVhOlhgJcLmJ4rZfzTcvxOTMuDkrprKBx0AxylsVsLHQnZTX",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
     {
       "name": "Never settle",
       "author": "Pintrest",
