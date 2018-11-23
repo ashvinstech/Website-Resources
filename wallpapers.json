@@ -38,6 +38,14 @@
   ],
   "Wallpapers": [ 
     {
+      "name": "BMW",
+      "author": "Pintrest",
+      "url": "http://freeandroidwallpaper.gallery/wp-content/uploads/2017/08/AudiWallpaper_84.jpg",
+      "dimensions": "1920x1080",
+      "collections": "featured",
+      "downloadable": true
+    },
+    {
       "name": "Galaxy",
       "author": "Pintrest",
       "url": "http://content.hampusolsson.com/downloads/PA7/another_galaxy_2k.jpg",
