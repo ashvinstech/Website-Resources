@@ -19,8 +19,7 @@ A full-of-features, easy-to-customize, free and light-weight wallpaper app with 
 [![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/ashvinstech/Website-Resources/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Frames.svg?style=social&label=Watch)](https://github.com/ashvinstech/Website-Resources)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/ashvinstech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/ashvinstech)
+
 
 
 ---
