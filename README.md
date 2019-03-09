@@ -7,7 +7,7 @@ Frames
 A full-of-features, easy-to-customize, free and light-weight wallpaper app with some great collection of wallpapers.
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.ashvinstech.wallfy">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1280px-Get_it_on_Google_play.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1280px-Get_it_on_Google_play.svg.png" width="200"/>
 </a>
 
 <a target="_blank" href="https://paypal.me/ashvinstech?locale.x=en_GB">
