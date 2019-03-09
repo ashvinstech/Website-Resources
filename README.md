@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/web_hi_res_512.png" width="192" align="right" hspace="20" />
 
-Frames
+Wallfy
 ======
 
 
