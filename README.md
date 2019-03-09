@@ -21,7 +21,7 @@ A full-of-features, easy-to-customize, free and light-weight wallpaper app with 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/ashvinstech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/ashvinstech)
-[![Instagram Follow](http://www.transparentpng.com/thumb/logo-instagram/z75gfy-instagram-logo-png.png)](https://www.instagram.com/wallfy.app/)
+
 
 ---
 
