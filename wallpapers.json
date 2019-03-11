@@ -38,6 +38,15 @@
   ],
   "Wallpapers": [ 
     {
+      "name": "City Grid 2",
+      "author": "Wallfy",
+      "url": "https://source.unsplash.com/random/1920x1080",
+      "dimensions": "1920x1080",
+      "collections": "city",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "City Grid",
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/City%20Grid.png",
