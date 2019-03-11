@@ -38,6 +38,15 @@
   ],
   "Wallpapers": [
     {
+      "name": "Fighter jets",
+      "author": "Wallfy",
+      "url": "https://images.unsplash.com/photo-1550112878-9d60fb7636cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "dimensions": "1920x1080",
+      "collections": "artistic",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "Lotte tower",
       "author": "Wallfy",
       "url": "https://images.unsplash.com/photo-1550112878-9d60fb7636cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
@@ -51,7 +60,7 @@
       "author": "Wallfy",
       "url": "https://images.unsplash.com/photo-1497367917223-64c44836be50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
       "dimensions": "1920x1080",
-      "collections": "city",
+      "collections": "landscapes",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
@@ -69,7 +78,7 @@
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/Orange%20Soda.png",
       "dimensions": "1920x1080",
-      "collections": "city",
+      "collections": "landscapes",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
@@ -78,7 +87,7 @@
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/Mojave%20Gradient.png",
       "dimensions": "1920x1080",
-      "collections": "city",
+      "collections": "artistic",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
