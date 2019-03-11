@@ -38,6 +38,15 @@
   ],
   "Wallpapers": [
     {
+      "name": "Sand dunes",
+      "author": "Wallfy",
+      "url": "https://images.unsplash.com/photo-1497367917223-64c44836be50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "dimensions": "1920x1080",
+      "collections": "city",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "City Grid",
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/City%20Grid.png",
