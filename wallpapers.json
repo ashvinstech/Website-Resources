@@ -36,16 +36,7 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
-  "Wallpapers": [ 
-    {
-      "name": "City Grid 2",
-      "author": "Wallfy",
-      "url": "https://source.unsplash.com/random/1080x1920",
-      "dimensions": "1080x1920",
-      "collections": "city",
-      "copyright":"Free (do whatever you want)",
-      "downloadable": true
-    },
+  "Wallpapers": [
     {
       "name": "City Grid",
       "author": "Wallfy",
