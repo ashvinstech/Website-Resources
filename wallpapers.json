@@ -38,6 +38,15 @@
   ],
   "Wallpapers": [
     {
+      "name": "Graphite Purpal",
+      "author": "Wallfy",
+      "url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_gallery_01.jpg",
+      "dimensions": "1080x2160",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "Burj Khalif Night",
       "author": "Wallfy",
       "url": "https://images.unsplash.com/photo-1552051263-6eb5bb6905b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1533&q=80",
