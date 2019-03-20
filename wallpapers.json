@@ -34,15 +34,20 @@
       "name": "People",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    },
+    {
+      "name": "Abstract",
+      "preview_url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_gallery_01.jpg",
+      "preview_thumbnail_url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_gallery_01.jpg"
     }
   ],
   "Wallpapers": [
     {
-      "name": "Unsplashed",
+      "name": "iPAD Splotch",
       "author": "Wallfy",
-      "url": "https://images.unsplash.com/photo-1515109834322-ecefe97a7b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1572&q=80",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/Pro%20Splotch.png",
       "dimensions": "1080x2160",
-      "collections": "landscapes",
+      "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
@@ -52,6 +57,15 @@
       "url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_gallery_01.jpg",
       "dimensions": "1080x2160",
       "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Unsplashed",
+      "author": "Wallfy",
+      "url": "https://images.unsplash.com/photo-1515109834322-ecefe97a7b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1572&q=80",
+      "dimensions": "1080x2160",
+      "collections": "landscapes",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
