@@ -43,6 +43,15 @@
   ],
   "Wallpapers": [
     {
+      "name": "OP5 Red",
+      "author": "Wallfy",
+      "url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_red_4k.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "iPAD Splotch",
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/Pro%20Splotch.png",
