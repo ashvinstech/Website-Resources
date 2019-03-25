@@ -48,6 +48,15 @@
   ],
   "Wallpapers": [
     {
+      "name": "MWTB 2",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/2%20(1).png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "OP5 Red",
       "author": "Wallfy",
       "url": "http://content.hampusolsson.com/downloads/OnePlus5T/op5t_red_4k.jpg",
@@ -228,11 +237,92 @@
       "downloadable": true
     },
     {
+      "name": "MWTB 10",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/10.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 4",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/4.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 5",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/5.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 6",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/6.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 7",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/7.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 8",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/8.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 9",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/9-OLED.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 9 White",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/9_WHITE.png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "MWTB 3",
+      "author": "Wallfy",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/3%20(1).png",
+      "dimensions": "4K",
+      "collections": "mrwhosetheboss",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "Rounded Stars",
       "author": "Wallfy",
       "url": "https://images.unsplash.com/photo-1454817481404-7e84c1b73b4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
       "dimensions": "4K",
-      "collections": "Amoled",
+      "collections": "amoled",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
