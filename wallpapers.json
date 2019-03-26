@@ -43,6 +43,33 @@
   ],
   "Wallpapers": [
     {
+      "name": "Blueish",
+      "author": "Wallfy",
+      "url": "https://i.pinimg.com/564x/26/9d/ea/269dea3fbbc9edf9595b5109f50ffd1d.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Absty",
+      "author": "Wallfy",
+      "url": "https://i.pinimg.com/564x/2c/a5/36/2ca536e8bbbc78191822d6bd3f746b89.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Red Water",
+      "author": "Wallfy",
+      "url": "hhttps://i.pinimg.com/564x/66/a0/05/66a0058992c9b8f9465b6ace57090148.jpg?b=t",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
       "name": "MWTB 2",
       "author": "Wallfy",
       "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/2%20(1).png",
