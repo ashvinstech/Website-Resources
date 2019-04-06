@@ -50,23 +50,14 @@
 			"preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
 		}
 	],
-	"Wallpapers": 
+	"Wallpapers": [
+		
 	{
 			"name": "BrokenRide",
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/2fUPKZT.png",
 			"thumbUrl": "https://i.imgur.com/l0Skw7C.png",
 			"collections": "random",
-			"dimensions": "1440x2560",
-			"downloadable": false,
-			"copyright": "Personal Use"
-		},
-		{
-			"name": "PhoneCalls",
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/3vG4rUg.png",
-			"thumbUrl": "https://i.imgur.com/kV7A2bs.png",
-			"collections": "simple",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
