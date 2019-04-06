@@ -50,7 +50,8 @@
 			"preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
 		}
 	],
-	"Wallpapers": [{
+	"Wallpapers": 
+	{
 			"name": "BrokenRide",
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/2fUPKZT.png",
