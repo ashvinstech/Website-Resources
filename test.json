@@ -1,5 +1,6 @@
 {
-	"Collections": [{
+  "Collections": [
+	        {
 			"name": "Splash",
 			"preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
 			"preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -50,6 +51,7 @@
 			"preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
 		}
 	],
+	
 	"Wallpapers": [
 		
 	{
