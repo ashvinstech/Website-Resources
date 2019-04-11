@@ -45,7 +45,7 @@
 
     {
       "name": "Wall of the Day",
-      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/pixelwallft.png",
+      "url": "http://paranoidandroid.co/assets/wallpapers/2018/submerged_2k.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
@@ -53,6 +53,38 @@
       "featured": true
     },
 
+    {
+      "name": "Blueish",
+      "url": "http://paranoidandroid.co/assets/wallpapers/2017/mineral_2k.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Blueish",
+      "url": "http://paranoidandroid.co/assets/wallpapers/2017/beasts_2k.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Blueish",
+      "url": "http://paranoidandroid.co/assets/wallpapers/2017/beasts_2k.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Blueish",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/pixelwallft.png",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
     {
       "name": "Pixel New 2",
       "author": "Wallfy",
