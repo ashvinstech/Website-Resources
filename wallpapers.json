@@ -45,7 +45,7 @@
 
     {
       "name": "Wall of the Day",
-      "url": "http://paranoidandroid.co/assets/wallpapers/2018/submerged_2k.jpg",
+      "url": "https://cdn.vox-cdn.com/thumbor/UWrGYGXQz4CYSB108zlQMvooMqU=/0x0:1800x1200/920x0/filters:focal(0x0:1800x1200):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13609299/The_Verge_Subsurface_Wallpaper_Small.0.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
@@ -53,6 +53,22 @@
       "featured": true
     },
 
+    {
+      "name": "The Verge",
+      "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/13699507/The_Verge_Wallpaper_01-18-19.0.png",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "WTD",
+      "url": "http://paranoidandroid.co/assets/wallpapers/2018/submerged_2k.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
     {
       "name": "Blueish",
       "url": "http://paranoidandroid.co/assets/wallpapers/2017/mineral_2k.jpg",
