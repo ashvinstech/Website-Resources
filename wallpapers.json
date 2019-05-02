@@ -52,12 +52,21 @@
 
     {
       "name": "Wall of the Day",
-      "url": "https://cdn.vox-cdn.com/thumbor/UWrGYGXQz4CYSB108zlQMvooMqU=/0x0:1800x1200/920x0/filters:focal(0x0:1800x1200):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13609299/The_Verge_Subsurface_Wallpaper_Small.0.jpg",
+      "url": "http://papers.co/wallpaper/papers.co-ai55-marvel-logo-film-art-illust-minimal-bokeh-33-iphone6-wallpaper.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true,
       "featured": true
+    },
+    
+    {
+      "name": "CAPTAIN MARVEL",
+      "url": "https://mfiles.alphacoders.com/760/760324.jpg",
+      "dimensions": "4K",
+      "collections": "SUPER HERO",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     
     {
