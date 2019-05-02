@@ -10,6 +10,13 @@
       "preview_url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-2-768x1662.jpg",
       "preview_thumbnail_url": "https://197133-588634-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/09/iphone-xs-wallpaper-2-768x1662.jpg"
     },
+    
+    {
+      "name": "SUPER HERO",
+      "preview_url": "https://i.pinimg.com/originals/57/c2/a6/57c2a6d13edce900fe408e48e265ba61.jpg",
+      "preview_thumbnail_url": "https://i.pinimg.com/originals/57/c2/a6/57c2a6d13edce900fe408e48e265ba61.jpg"
+    },
+    
     {
       "name": "Amoled",
       "preview_url": "https://i.pinimg.com/originals/44/01/1b/44011be73e438b43367e6542d57d27c5.jpg",
@@ -53,6 +60,15 @@
       "featured": true
     },
 
+    {
+      "name": "End Game",
+      "url": "https://i.pinimg.com/originals/57/c2/a6/57c2a6d13edce900fe408e48e265ba61.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    
     {
       "name": "The Verge",
       "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/13699507/The_Verge_Wallpaper_01-18-19.0.png",
