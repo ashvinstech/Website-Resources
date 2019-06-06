@@ -52,7 +52,7 @@
 
     {
       "name": "Wall of the Day",
-      "url": "https://www.setaswall.com/wp-content/uploads/2019/05/Asus-Zenfone-6-Stock-Wallpaper-12-1080x2340-380x823.jpg",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_RedDark_FlareZephyr-1472x1472.jpeg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
@@ -61,6 +61,54 @@
     },
    
    
+    {
+      "name": "iOS 13 Dark",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_BlueDark_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
+    {
+      "name": "iOS 13 Light",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_RedWhite_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
+    {
+      "name": "iOS 13 Light",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_BlueWhite_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
+    {
+      "name": "iOS 13 Dark",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_GreenDark_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
+    {
+      "name": "iOS 13 Light",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_GreenWhite_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
+    {
+      "name": "Zenfone 6",
+      "url": "https://www.setaswall.com/wp-content/uploads/2019/05/Asus-Zenfone-6-Stock-Wallpaper-12-1080x2340-380x823.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+    },
     {
       "name": "Zenfone 6",
       "url": "https://www.setaswall.com/wp-content/uploads/2019/05/Asus-Zenfone-6-Stock-Wallpaper-05-1080x2340-380x823.jpg",
