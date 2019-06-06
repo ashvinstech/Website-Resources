@@ -50,6 +50,15 @@
   ],
   "Wallpapers": [
 
+    {
+      "name": "Wall of the Day",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_RedDark_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true,
+      "featured": true
+    },
     
     {
       "name": "iOS 13 Dark",
@@ -57,7 +66,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "iOS 13 Light",
@@ -65,7 +74,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "iOS 13 Light",
@@ -73,7 +82,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "iOS 13 Dark",
@@ -81,7 +90,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "iOS 13 Light",
@@ -89,7 +98,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "Zenfone 6",
@@ -97,7 +106,7 @@
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
-      "downloadable": true,
+      "downloadable": true
     },
     {
       "name": "Zenfone 6",
