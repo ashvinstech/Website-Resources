@@ -52,14 +52,45 @@
 
     {
       "name": "Wall of the Day",
-      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_RedDark_FlareZephyr-1472x1472.jpeg",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-blue-flame-wall-03.png?raw=true",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true,
       "featured": true
     },
-    
+    {
+      "name": "Red Flame",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-red-flame-wall-05.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Carbon Red",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-carbon-red-wall-01.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Glacier Blue",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-glacier-blue-wall-02.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Purple Flame",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-purple-flame-wall-04.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
     {
       "name": "iOS 13 Dark",
       "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_BlueDark_FlareZephyr-1472x1472.jpeg",
