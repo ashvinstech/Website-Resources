@@ -32,7 +32,7 @@
       "downloadable": true
     },
     {
-      "name": "Carbon Red",
+      "name": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_blue.jpg",
       "dimensions": "4K",
       "collections": "abstract",
@@ -40,7 +40,7 @@
       "downloadable": true
     },
     {
-      "name": "Glacier Blue",
+      "name": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_green.jpg",
       "dimensions": "4K",
       "collections": "abstract",
@@ -58,6 +58,14 @@
     {
       "name": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_white.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    }
+    {
+      "name": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_yellow.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
