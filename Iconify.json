@@ -24,8 +24,8 @@
   "Wallpapers": [
     
     {
-      "name": "Red Flame",
-      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-red-flame-wall-05.png?raw=true",
+      "name": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Carbon Red",
-      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-carbon-red-wall-01.png?raw=true",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_blue.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
@@ -41,23 +41,23 @@
     },
     {
       "name": "Glacier Blue",
-      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-glacier-blue-wall-02.png?raw=true",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_green.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
     {
-      "name": "Purple Flame",
-      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-purple-flame-wall-04.png?raw=true",
+      "name": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_pink.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true
     },
     {
-      "name": "iOS 13 Dark",
-      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_BlueDark_FlareZephyr-1472x1472.jpeg",
+      "name": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_white.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
