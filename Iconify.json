@@ -32,15 +32,15 @@
       "downloadable": false
     },
     {
+      "name": "Iconfy 1",
       "author": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_white.jpg",
-      "name": "Iconfy",
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
     },
     {
-      "name": "Iconify",
+      "name": "Iconify 2",
       "author": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_green.jpg",
       "dimensions": "3200x2560",
@@ -48,7 +48,7 @@
       "collections": "featured,landscapes,people,city",
     },
     {
-      "name": "Iconfiy",
+      "name": "Iconfiy 3",
       "author": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb_blue.jpg",
       "dimensions": "3200x2560",
@@ -56,7 +56,7 @@
       "collections": "featured,landscapes,people,food"
     },
     {
-      "name": "Iconify",
+      "name": "Iconify 4",
       "author": "Iconify",
       "url": "https://www.xda-developers.com/files/2019/02/default_thumb.jpg",
       "dimensions": "3200x2560",
