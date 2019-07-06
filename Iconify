@@ -1,0 +1,69 @@
+{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    }
+  ],
+  "Wallpapers": [
+    
+    {
+      "name": "Iconify",
+      "author": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_pink.jpg",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": false
+      "featured": true
+
+    },
+    {
+      "author": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_white.jpg",
+      "name": "Iconfy",
+      "dimensions": "1280x720",
+      "copyright": "Credits to its creator",
+      "collections": "landscapes,city"
+    },
+    {
+      "name": "Iconify",
+      "author": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_green.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,city",
+    },
+    {
+      "name": "Iconfiy",
+      "author": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_blue.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,food"
+    },
+    {
+      "name": "Iconify",
+      "author": "Iconify",
+      "url": "https://www.xda-developers.com/files/2019/02/default_thumb.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,food,people"
+    }
+  ]
+}
