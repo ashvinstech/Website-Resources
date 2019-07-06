@@ -24,44 +24,44 @@
   "Wallpapers": [
     
     {
-      "name": "Iconify",
-      "author": "Iconify",
-      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_pink.jpg",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "name": "Red Flame",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-red-flame-wall-05.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     {
-      "name": "Iconfy 1",
-      "author": "Iconify",
-      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_white.jpg",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
+      "name": "Carbon Red",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-carbon-red-wall-01.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     {
-      "name": "Iconify 2",
-      "author": "Iconify",
-      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_green.jpg",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city"
+      "name": "Glacier Blue",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-glacier-blue-wall-02.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     {
-      "name": "Iconfiy 3",
-      "author": "Iconify",
-      "url": "https://www.xda-developers.com/files/2019/02/default_thumb_blue.jpg",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "name": "Purple Flame",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-purple-flame-wall-04.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     {
-      "name": "Iconify 4",
-      "author": "Iconify",
-      "url": "https://www.xda-developers.com/files/2019/02/default_thumb.jpg",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
+      "name": "iOS 13 Dark",
+      "url": "https://media.idownloadblog.com/wp-content/uploads/2019/06/iOS13_BlueDark_FlareZephyr-1472x1472.jpeg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     }
   ]
 }
