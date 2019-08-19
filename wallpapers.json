@@ -52,12 +52,44 @@
 
     {
       "name": "Wall of the Day",
-      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-blue-flame-wall-03.png?raw=true",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a601.jpg",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
       "downloadable": true,
       "featured": true
+    },
+    {
+      "name": "Galaxy A60 1",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a601.png",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Galaxy A60 2",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a602.png",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Galaxy A60 3",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a602.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "Blue Flame",
+      "url": "https://github.com/ashvinstech/Website-Resources/blob/master/wallpapers/redmi-k20-pro-blue-flame-wall-03.png?raw=true",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
     },
     {
       "name": "Red Flame",
