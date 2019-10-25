@@ -1,1 +1,67 @@
-
+{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    }
+  ],
+  "Wallpapers": [
+    
+    {
+      "name": "1",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/1.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "2",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/2.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "3",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/3.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "4",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/4.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    },
+    {
+      "name": "5",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/5.jpg",
+      "dimensions": "4K",
+      "collections": "abstract",
+      "copyright":"Free (do whatever you want)",
+      "downloadable": true
+    }
+  ]
+}
