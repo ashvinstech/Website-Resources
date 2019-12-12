@@ -61,7 +61,8 @@
     },
     {
       "name": "Galaxy A60 1",
-      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a601.png",
+      "thumbnail": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers/a601.png",
+      "url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/Iconify.json",
       "dimensions": "4K",
       "collections": "abstract",
       "copyright":"Free (do whatever you want)",
