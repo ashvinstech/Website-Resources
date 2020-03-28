@@ -5,21 +5,18 @@
 		"url": "https://ashvinstech.com/Projects.xml",
 		"thumbnail": "https://ashvinstech.com/28.jpg",
 		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"copyright": "Unknown"
 	},
       {
 		"name": "ShotA",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
 	},
 	{
 		"name": "ShotB",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
 		"dimensions": "3200x2560",
-		"collections": "people,city",
 		"downloadable": false
 	},
 	{
@@ -27,8 +24,7 @@
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
 		"name": "ShotC",
 		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
+		"copyright": "Credits to its creator"
 	},
 	{
 		"name": "Wallsplash 1",
@@ -37,7 +33,6 @@
 		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
 		"featured": true
 	},
 	{
@@ -46,8 +41,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
 		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 3",
@@ -55,8 +49,7 @@
 		"url": "https://raw.githubusercontent.com/ashvinstech/Website-Resources/master/wallpapers-new.json",
 		"thumbnail": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 4",
@@ -64,8 +57,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
 		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 5",
@@ -73,8 +65,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
 		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 6",
@@ -82,8 +73,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
 		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 7",
@@ -91,8 +81,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
 		"thumbnail": "https://via.placeholder.com/500",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Wallsplash 8",
@@ -100,8 +89,7 @@
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
 		"thumbnail": "https://via.placeholder.com/150",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"copyright": "Free (do whatever you want)"
 	},
 	{
 		"name": "Webp Image",
@@ -109,7 +97,6 @@
 		"url": "https://www.gstatic.com/webp/gallery/4.webp",
 		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
 		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"copyright": "Unknown"
 	}
 ]
